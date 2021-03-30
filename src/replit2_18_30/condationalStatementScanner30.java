@@ -7,6 +7,7 @@ public class condationalStatementScanner30 {
         Scanner inp = new Scanner(System.in);
         System.out.println("Please enter month number");
         int num1 =inp.nextInt();
+          int num2=5
 
         if (num1==1) {
             System.out.println("January");
