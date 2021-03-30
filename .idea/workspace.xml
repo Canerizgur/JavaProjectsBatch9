@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea68a986-cd90-43be-8790-615d7273329f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oP9guIkKfDJkUWmv7tlUkXL1nV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.condationalStatementScanner30">
+    <configuration name="condationalStatementScanner27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="replit2_18_30.condationalStatementScanner27" />
+      <module name="replit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="replit2_18_30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="condationalStatementScanner30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="replit2_18_30.condationalStatementScanner30" />
+      <module name="replit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="replit2_18_30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="conditionalStatemeneScanner29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="replit2_18_30.conditionalStatemeneScanner29" />
+      <module name="replit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="replit2_18_30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="conditionalStatementScanner26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="replit2_18_30.conditionalStatementScanner26" />
+      <module name="replit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="replit2_18_30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="conditionalStatementScanner28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="replit2_18_30.conditionalStatementScanner28" />
+      <module name="replit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="replit2_18_30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.condationalStatementScanner30" />
+        <item itemvalue="Application.conditionalStatemeneScanner29" />
+        <item itemvalue="Application.conditionalStatementScanner28" />
+        <item itemvalue="Application.conditionalStatementScanner26" />
+        <item itemvalue="Application.condationalStatementScanner27" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea68a986-cd90-43be-8790-615d7273329f" name="Default Changelist" comment="" />
+      <created>1613177472120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613177472120</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1299" height="466" key="GridCell.Tab.0.bottom" timestamp="1613776939899">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1299" height="150" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1613693186415" />
+    <state width="1299" height="466" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613776939899" />
+    <state width="1299" height="466" key="GridCell.Tab.0.center" timestamp="1613776939899">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1299" height="150" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1613693186414" />
+    <state width="1299" height="466" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1613776939899" />
+    <state width="1299" height="466" key="GridCell.Tab.0.left" timestamp="1613776939899">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1299" height="150" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1613693186414" />
+    <state width="1299" height="466" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1613776939899" />
+    <state width="1299" height="466" key="GridCell.Tab.0.right" timestamp="1613776939899">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1299" height="150" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1613693186414" />
+    <state width="1299" height="466" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1613776939899" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1613833681764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1613689599825" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1613833681764" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1613770035761" />
+    <state x="0" y="0" key="new project wizard" timestamp="1613229409929">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1613229409929" />
+  </component>
+</project>
